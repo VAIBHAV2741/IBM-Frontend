@@ -1,0 +1,204 @@
+{
+  "tickets": [
+    {
+      "id": "TCKT-001",
+      "status": "pending",
+      "problem": "Potholes on main road need urgent repair"
+    },
+    {
+      "id": "TCKT-002",
+      "status": "pending",
+      "problem": "Delay in issuing voter ID card"
+    },
+    {
+      "id": "TCKT-003",
+      "status": "pending",
+      "problem": "Street lights not working in residential area"
+    },
+    {
+      "id": "TCKT-004",
+      "status": "pending",
+      "problem": "Water supply irregular in morning hours"
+    },
+    {
+      "id": "TCKT-005",
+      "status": "pending",
+      "problem": "Garbage not collected for over a week"
+    },
+    {
+      "id": "TCKT-006",
+      "status": "pending",
+      "problem": "Long wait time at public health center"
+    },
+    {
+      "id": "TCKT-007",
+      "status": "pending",
+      "problem": "Corruption reported in property registration office"
+    },
+    {
+      "id": "TCKT-008",
+      "status": "pending",
+      "problem": "Improper drainage leading to waterlogging"
+    },
+    {
+      "id": "TCKT-009",
+      "status": "pending",
+      "problem": "Broken public park benches need maintenance"
+    },
+    {
+      "id": "TCKT-010",
+      "status": "pending",
+      "problem": "Noisy construction work violating hours"
+    },
+    {
+      "id": "TCKT-011",
+      "status": "resolved",
+      "problem": "Street lights in Sector 4 repaired successfully"
+    },
+    {
+      "id": "TCKT-012",
+      "status": "resolved",
+      "problem": "PDS shop now displaying stock availability"
+    },
+    {
+      "id": "TCKT-013",
+      "status": "resolved",
+      "problem": "Water leakage fixed in Municipal Building"
+    },
+    {
+      "id": "TCKT-014",
+      "status": "resolved",
+      "problem": "Resolved overcharging issue in electricity bill"
+    },
+    {
+      "id": "TCKT-015",
+      "status": "resolved",
+      "problem": "Illegal parking issue addressed near bus stand"
+    },
+    {
+      "id": "TCKT-016",
+      "status": "resolved",
+      "problem": "Public toilet in Market Road cleaned and maintained"
+    },
+    {
+      "id": "TCKT-017",
+      "status": "resolved",
+      "problem": "Noise complaint resolved by local authorities"
+    },
+    {
+      "id": "TCKT-018",
+      "status": "resolved",
+      "problem": "Drainage cleaned and sanitized after complaint"
+    },
+    {
+      "id": "TCKT-019",
+      "status": "resolved",
+      "problem": "New bus stop shelter installed"
+    },
+    {
+      "id": "TCKT-020",
+      "status": "resolved",
+      "problem": "Pension application processed and delivered"
+    },
+    {
+      "id": "TCKT-021",
+      "status": "ongoing",
+      "problem": "Bridge repair work in progress in Subhash Nagar"
+    },
+    {
+      "id": "TCKT-022",
+      "status": "ongoing",
+      "problem": "Pipeline maintenance under way in Sector 11"
+    },
+    {
+      "id": "TCKT-023",
+      "status": "ongoing",
+      "problem": "Tree plantation drive underway in community parks"
+    },
+    {
+      "id": "TCKT-024",
+      "status": "ongoing",
+      "problem": "Public Wi-Fi installation ongoing in college areas"
+    },
+    {
+      "id": "TCKT-025",
+      "status": "ongoing",
+      "problem": "Digital complaint portal upgrade in progress"
+    },
+    {
+      "id": "TCKT-026",
+      "status": "ongoing",
+      "problem": "Metro expansion project work continues as scheduled"
+    },
+    {
+      "id": "TCKT-027",
+      "status": "ongoing",
+      "problem": "Smart streetlight system being installed"
+    },
+    {
+      "id": "TCKT-028",
+      "status": "ongoing",
+      "problem": "Mobile vaccination van deployment underway"
+    },
+    {
+      "id": "TCKT-029",
+      "status": "ongoing",
+      "problem": "Flyover painting and signage improvement ongoing"
+    },
+    {
+      "id": "TCKT-030",
+      "status": "ongoing",
+      "problem": "Cleanliness audit being conducted in schools"
+    },
+    {
+      "id": "TCKT-031",
+      "status": "accepted",
+      "problem": "Request for new ration card has been accepted"
+    },
+    {
+      "id": "TCKT-032",
+      "status": "accepted",
+      "problem": "Application for street vendor license accepted"
+    },
+    {
+      "id": "TCKT-033",
+      "status": "accepted",
+      "problem": "Proposal for rainwater harvesting approved"
+    },
+    {
+      "id": "TCKT-034",
+      "status": "accepted",
+      "problem": "Complaint regarding noise pollution accepted"
+    },
+    {
+      "id": "TCKT-035",
+      "status": "accepted",
+      "problem": "New bus route request accepted for review"
+    },
+    {
+      "id": "TCKT-036",
+      "status": "accepted",
+      "problem": "Grievance on staff misconduct accepted by HR cell"
+    },
+    {
+      "id": "TCKT-037",
+      "status": "accepted",
+      "problem": "Request for drinking water facility accepted"
+    },
+    {
+      "id": "TCKT-038",
+      "status": "accepted",
+      "problem": "Accepted request to add street lighting in alley"
+    },
+    {
+      "id": "TCKT-039",
+      "status": "accepted",
+      "problem": "Complaint on broken pavement accepted for action"
+    },
+    {
+      "id": "TCKT-040",
+      "status": "accepted",
+      "problem": "Traffic signal malfunction reported and accepted"
+    }
+  ]
+}
